@@ -1,5 +1,3 @@
-# Udhayakrishanan-readme.md
-
 # Hi, I'm Udhaya Krishnan 👋
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
